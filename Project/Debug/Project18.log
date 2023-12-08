@@ -1,0 +1,26 @@
+﻿  Admin.cpp
+  AdminLogin.cpp
+  Administrator.cpp
+  AfterLogin.cpp
+  Booking.cpp
+  Confirm Reservation.cpp
+  DeleteUser.cpp
+  Entry.cpp
+  MyForm.cpp
+  MyForm1.cpp
+  MyForm2.cpp
+  MyForm7.cpp
+  Person.cpp
+  Reservation.cpp
+  Reset.cpp
+  Seats.cpp
+  Ticket.cpp
+  TicketInfo.cpp
+  User.cpp
+  cancellation.cpp
+  Generating Code...
+  Compiling...
+  newtrain.cpp
+  Generating Code...
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project18.vcxproj -> C:\Users\user\source\repos\Project18\Debug\Project18.exe

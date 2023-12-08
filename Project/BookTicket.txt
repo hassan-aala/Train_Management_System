@@ -1,0 +1,48 @@
+ali
+2
+Karachi Express
+Economy
+1
+KARACHI
+ISLAMABAD
+1000
+ali
+3
+Karachi Express
+Economy
+1
+KARACHI
+ISLAMABAD
+1000
+ali
+15
+Karachi Express
+LowerAc
+2
+LAHORE
+BAHAWALPUR
+1500
+akshay
+9
+Khyber Mail
+LowerAc
+1
+LAHORE
+ISLAMABAD
+1500
+kashish
+7
+Khyber Mail
+LowerAc
+1
+BAHAWALPUR
+FAISALABAD
+1500
+mukesh
+7
+Karachi Express
+LowerAc
+1
+FAISALABAD
+QUETTA
+2500
